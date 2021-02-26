@@ -18,3 +18,7 @@ print("only commit no PUSH")
 
 print("Cant do anything so PUSH")
 
+#####################################################
+
+print("1 commit 2 no push")
+
