@@ -1,1 +1,7 @@
 print("nf_")
+
+
+# after merge with master
+
+def gOgO():
+    print("Power Rangers !!!")
