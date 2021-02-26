@@ -15,3 +15,6 @@ print("attempt to create new branch")
 print("in new branch some code")
 
 print("only commit no PUSH")
+
+print("Cant do anything so PUSH")
+
