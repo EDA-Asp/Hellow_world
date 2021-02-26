@@ -11,3 +11,7 @@ print("Commit line 3")
 print("Commit line 4")
 
 print("attempt to create new branch")
+
+print("in new branch some code")
+
+print("only commit no PUSH")
