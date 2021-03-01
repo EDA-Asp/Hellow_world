@@ -6,3 +6,6 @@ print("nf_")
 
 def gOgO():
     print("Power Rangers !!!")
+    
+def new_func():
+    print("Wanna fetch this function")
